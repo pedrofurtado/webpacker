@@ -1,6 +1,6 @@
 {
   "name": "@pedrofurtado/webpacker",
-  "version": "5.4.0-patched",
+  "version": "5.4.0-patched2",
   "description": "Use webpack to manage app-like JavaScript modules in Rails",
   "main": "package/index.js",
   "files": [
